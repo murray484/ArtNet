@@ -1,11 +1,11 @@
 {
-    "name": "ArtNet",
-    "keywords": "Art-Net,Artnet,Ethernet,WiFi",
-    "description": "Art-Net Sender/Receiver for Arduino (Ethernet, WiFi)binary data packer / unpacker",
+    "name": "ArtNetUIP",
+    "keywords": "Art-Net,Artnet,Ethernet,WiFi,UIP",
+    "description": "Art-Net Sender/Receiver for Arduino (EthernetUIP, WiFi)binary data packer / unpacker",
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/hideakitai/ArtNet.git"
+        "url": "https://github.com/murray484/ArtNet.git"
     },
     "authors":
     {
