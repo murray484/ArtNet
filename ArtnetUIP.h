@@ -21,8 +21,8 @@
     #include <ESP8266WiFi.h>
     #include <WiFiUdp.h>
 #elif defined (TEENSYDUINO) || defined (__AVR__)
-    #include <Ethernet.h>
-    #include <EthernetUdp.h>
+    #include <UIPEthernet.h>
+    #include <UIPUdp.h>
 #endif
 
 
